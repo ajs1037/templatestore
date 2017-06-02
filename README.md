@@ -28,7 +28,7 @@ A simple web template sales app. Lists templates with their details including pr
 
 
 
+# Email me for entire project
 
 
-
-BUG: Details buttons do not jump to details page when clicked. User has to type http://localhost:8000/#!/templates/1 in search bar to get to detail pages
+Minor BUG: Details buttons do not jump to details page when clicked. User has to type http://localhost:8000/#!/templates/1 in search bar to get to detail pages. Feel free to fork and fix
